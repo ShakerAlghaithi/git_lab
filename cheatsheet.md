@@ -9,3 +9,6 @@ to commit the changes >>  git commit -m “ argument”
 create repo on github
 to connect git and github >> get remote add origin <url>
 to push the change to the repository at github >> git push origin master
+
+
+test changing 
