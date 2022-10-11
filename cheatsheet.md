@@ -71,4 +71,4 @@ Git stash
 This command takes the changes you have stashed, adds them back to your file, and deletes the stash.
 Git stash pop 
 
-Now you can commit it![image](https://user-images.githubusercontent.com/7130396/194982620-f1e7e245-fd24-4003-b15b-8bf6a3104922.png)
+Now you can commit it!
